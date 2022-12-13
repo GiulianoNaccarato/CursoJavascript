@@ -75,9 +75,9 @@ class Cliente {
 }
 
 const clienteSamuel = new Cliente("Enrique", "Saenz", 12345678, 1000);
-const clienteJuan = new Cliente("Juan", "Perez", 12345678, 2000);
-const clienteMaria = new Cliente("Maria", "Gomez", 12345678, 3000);
-const clientePedro = new Cliente("Pedro", "Gonzalez", 12345678, 4000);
+const clienteJuan = new Cliente("Pepe", "Gomez", 12345678, 2000);
+const clienteMaria = new Cliente("Leonel", "Messi", 12345678, 3000);
+const clientePedro = new Cliente("Leandro", "Paez", 12345678, 4000);
 
 const arrayClientes = [];
 
